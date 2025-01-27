@@ -1,0 +1,2 @@
+AssetID,SerialNumber,CategoryType,PurchaseDate,PurchaseOrder,Country,PurchaseCost,Model,InvoiceDate,InvoiceNumber,InvoiceFilePath,SupplierDetails,Country1,SupplierContact,WarrantyStartDate,WarrantyEndDate,AssetCondition
+A12BC3301,SN6BV781,Laptop,01-01-2023,PO123456,India,5000,Dell,15-01-2023,INV7890,C:\Users\GAC-LP0064\Downloads\invoice.pdf,Dell,India,0123456789,01-01-2025,31-12-2025,Good
